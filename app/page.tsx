@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 
-const WHATSAPP = "50688888888";
+const WHATSAPP = "50686175331";
 
 type Product = { id: number; name: string; detail: string; price: number; originalPrice: number; category: "hombre" | "mujer"; img: string; };
 
