@@ -74,7 +74,7 @@ export default function Home() {
         <p className="hero-sub-top">Perfumeria</p>
         <h1 className="hero-title">Scent du Cox</h1>
         <img src="/images/logo.png" alt="Scent du Cox" style={{ width: 160, height: "auto", margin: "24px auto", display: "block" }} />
-        <h2 className="hero-location">Costa Rica</h2>
+        <h2 className="hero-location"><span>Costa Rica</span></h2>
         <p className="hero-sub">FRAGANCIAS ORIGINALES &middot; HOMBRE &amp; MUJER</p>
         <div className="hero-line" />
       </div>
